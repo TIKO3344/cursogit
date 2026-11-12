@@ -1,1 +1,3 @@
-# Mi primer repositorio en git
+# Mi primer repositorio en git y gitKraken
+# Curso Computacion
+
